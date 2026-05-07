@@ -1,0 +1,5 @@
+# Tell GitHub Linguist what to ignore for language detection
+pubspec.lock linguist-generated=true
+pubspec.yaml linguist-documentation=true
+analysis_options.yaml linguist-documentation=true
+web/manifest.json linguist-documentation=true
